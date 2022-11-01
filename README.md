@@ -1,5 +1,5 @@
 # portfolio
-Yennifer's portfolio
+Yufan Bao's portfolio
 
 # About Me
 Hi! This is Yennifer. I'm very interested in machine learning!
