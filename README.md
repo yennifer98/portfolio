@@ -10,3 +10,5 @@ For this course I want to learn how to make use of colors to tell a good story.
 
 # Portfolio
 Project Experience here.
+
+[week2 hw](/dataviz2.md)
