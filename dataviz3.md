@@ -8,6 +8,7 @@ And the graph is shown as below:
 I think this graph is not that effective, because:
 1. From the perspective of usefulness, the HR really needs the information in an intuitive and clean manner so that it could help make their decision efficiently. However, there are two many information of redundancy given the plot.
 2. From the perspective of perceptibility and intuitiveness, it is even worse since the plot is using the colors of almost the same gray level to represent the difference. If I had the chance, I would try to plot the heatmap (or other format of the visualization in a much more efficient manner) using two different contrast colors.
+
 Therefore, I have two thoughts on how to improve it:
 1.  I would like to change the color set from the original one to the color set of different contrast manner.
 2.  I would like to change the visualization manner to remove redundancy. Instead of the heatmap I might consider to use the bar plots (or frequency plots) for each company size, spanning all YOEs. We can observe a spike at the tail of each frequency plot, which could provide us a good view for the conclusion of the plot.
