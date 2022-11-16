@@ -13,4 +13,4 @@ For this course I want to learn how to make use of colors to tell a good story.
 ## Data Visualization Practice
 [week2 homework](/dataviz2.md)
 
-[week2 homework](/dataviz3.md)
+[week3 homework](/dataviz3.md)
