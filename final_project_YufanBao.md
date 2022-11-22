@@ -10,4 +10,10 @@ Secondly, I'm also curious about which cities are the start-up companies receivi
 ![initial sketch](/final_initial.png)
 
 ## The Data
+The dataset I'm going to use is a small dataset posted on Kaggle but has no analysis yet, and the link is:
+https://www.kaggle.com/datasets/thedevastator/startups-funding-rounds?select=sf.csv
 
+I'm going to use the column "IndustryVertical", "SubVertical" and "AmountInUSD" to study the relationship between the type of startups and the funding amount. Next, I'm going to use the column "CityLocation" to study the locations of startups.
+
+## Method and Medium
+I'm going to use Shorthand to build my story.
