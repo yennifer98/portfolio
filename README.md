@@ -15,4 +15,4 @@ For this course I want to learn how to make use of colors to tell a good story.
 
 [week3 homework](/dataviz3.md)
 
-[final project part I](/final_project_YufanBao.md)
+[final project](/final_project_YufanBao.md)
