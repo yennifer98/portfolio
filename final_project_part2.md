@@ -9,6 +9,7 @@ I use the Shorthand to design the wireframe. Here is the [link](https://preview.
 **Interview Script**:
 |                                       **Question**                                      |                                      **Intent**                                      |
 |:---------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
+
 | Have you ever thought about starting your own business?                                 | To figure out the current audience type                                              |
 | If so, have you thought about any implementation details? Could you share that with me? | To know about the audience's basic idea about starting a startup                     |
 | Begin to show my fisrt version of storyboard...                                         |                                                                                      |
