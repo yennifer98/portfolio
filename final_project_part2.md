@@ -8,6 +8,7 @@ I use the Shorthand to design the wireframe. Here is the [link](https://preview.
 **Approach to identifying representative individuals to interview**: I want to hear feedback from people form different ages. Also, I want to find a people who want to start a new business recently. Therefore, my three targets are: 1 middle age people, 1 young student who is not interested in starting a startup, 1 young student who is interested in starting a startup.
 **Interview Script**:
 |                                       **Question**                                      |                                      **Intent**                                      |
+
 |:---------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
 
 | Have you ever thought about starting your own business?                                 | To figure out the current audience type                                              |
