@@ -32,6 +32,6 @@ Student, mid 20's (interested in starting a startup):
 2. Fix the last visualization
 3. After the last visualization, add a new section discussing about the saturation problem.
 
-## What's more progress from Part I
+## What's the progress from Part I
 [Link to Part1](/final_project_part1.md)
 As for my part1, I got a comment that it just looks like a visuliazation for the Kaggle dataset, but not telling a story. Therefore, for part2, I did some research and found some additional data to make it a whole story.
