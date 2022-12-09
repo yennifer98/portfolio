@@ -6,7 +6,7 @@ Previous Progress:
 Final Presentation Deliverable (on the Shorthand Platform):
 [Shorthand Link](https://carnegiemellon.shorthandstories.com/get-funding-successfully-to-start-a-startup/index.html)
 
-Target Audience:
+**Target Audience:**\n
 People who are interested in starting a new business, and people who are already in the stage of generating idea for their startups
 
 Call to Action:
