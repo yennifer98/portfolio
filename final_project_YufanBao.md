@@ -18,3 +18,13 @@ My first progress is to fix the overall logic. As for Part II, I got a feedback 
 The second change is the color change of my fisrt graph. Here I want to focus on the failure part, but the color is reversed to focus on the other part. Therefore, I reverse the color to make the graph more reasonable.  
 The third change I made is to add some short texts between the sections to make sure the audience can understand my story.  
 My last change is to add the call to action text at the end of the storyboard to let the audience know what I want them to bring home.
+
+**Summary:**  
+In the initial stage of this project, I just want to talk about the funding patterns of startups, which is just a piece of story, a data visualization of a single dataset. However, as I going through part II and part III, I generally generate the whole story. During this progress, I have a feeling of achievment. In short, I'm happy to see my progress and see I did bring something to my audience!
+
+**Reference for the story content:**  
+Chernev, B. (2022, March 28). What percentage of startups fail? [30+ stats for 2022]. Review42. Retrieved December 8, 2022, from https://review42.com/resources/what-percentage-of-startups-fail/
+
+Failory. (2022, November 9). Startup failure rate: How many startups fail and why? RSS. Retrieved December 8, 2022, from https://www.failory.com/blog/startup-failure-rate
+
+Devastator, T. (2022, November 5). Startups funding rounds. Kaggle. Retrieved December 8, 2022, from https://www.kaggle.com/datasets/thedevastator/startups-funding-rounds?select=sf.csv
